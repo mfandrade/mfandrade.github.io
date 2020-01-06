@@ -2,12 +2,12 @@
 layout: post
 title: Primeiros passos com Maven
 postid: getting-started-with-maven
-categories: Tools
+categories: Tools Java
 ---
 
-<p class="intro"><span class="dropcap">Q</span>uem começa a estudar a linguagem
-de programação Java, logo de cara se depara com o conceito de <a href="http://www.guj.com.br/articles/108">classpath</a>,
-ou seja, onde residirão as classes que compõem os nossos programas.</p>
+Quem começa a estudar a linguagem de programação Java, logo de cara se depara
+com o conceito de [classpath](http://www.guj.com.br/articles/108), ou seja,
+onde residirão as classes que compõem os nossos programas.
 
 Conforme vamos criando projetos Java maiores e mais complexos, essa questão
 vai ficando ainda mais complicada.  Para utilizar funcionalidades de bibliotecas

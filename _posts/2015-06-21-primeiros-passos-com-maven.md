@@ -2,7 +2,7 @@
 layout: post
 postid: getting-started-with-maven
 title: Primeiros passos com Maven
-categories: OldButGold GettingStarted Tools
+categories: old getting-started devtools
 ---
 
 Quem começa a estudar a linguagem de programação Java, logo de cara se depara

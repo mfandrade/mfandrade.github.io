@@ -2,7 +2,7 @@
 layout: post
 postid: cakephp-charset-definitive-guide
 title: Guia definitivo da codificação de caracteres em CakePHP
-categories: OldButGold CakePHP
+categories: old cakephp
 ---
 
 Codificação de caracteres é talvez o problema mais comum para quem está

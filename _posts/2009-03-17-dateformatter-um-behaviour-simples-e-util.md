@@ -2,7 +2,7 @@
 layout: post
 postid: zipfiles-with-python
 title: DateFormatter, um behaviour simples e útil
-categories: OldButGold CakePHP
+categories: old cakephp
 ---
 
 Desenvolvimento de sistemas envolve boa parte de planejamento e também de

@@ -2,7 +2,7 @@
 layout: post
 postid: zipfiles-with-python
 title: Criando arquivos zip com Python
-categories: OldButGold QuickHowto Python
+categories: old quick-howto python
 ---
 
 Estou fazendo algumas primeiras incursões em [Python](http://www.python.org).

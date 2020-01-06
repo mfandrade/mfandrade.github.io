@@ -4,13 +4,11 @@ title: Criando arquivos zip com Python
 categories: Python
 ---
 
-[Publicado originalmente em 2012-01-17](https://mfandrade.wordpress.com/2012/01/17/criar-arquivos-zip-em-python/).
-
-Estou fazendo minhas primeiras excursões em [Python](http://www.python.org).
+Estou fazendo algumas primeiras incursões em [Python](http://www.python.org).
 Realmente é uma linguagem bastante suscinta e também muito elegante.  Descobrir
-o jeito "pythonico" de fazer as coisas, especialmente para nós que viemos de
-outras linguagens como Java, chega a ser revelador (Não é raro se
-ter alguns momentos do tipo: "Puxa, só isso!?").
+o jeito "pythônico" de fazer as coisas, especialmente para nós que viemos de
+outras linguagens como Java, chega a ser revelador (Não é raro se ter alguns
+momentos do tipo: "Puxa, só isso!?").
 
 Como novato querendo aprender a mexer em Python, vou relatar aqui meus
 progressos.  Basicamente o objetivo é anotar para eu mesmo me lembrar, mas se
@@ -45,3 +43,4 @@ Simples, não!?  E o que é melhor: nada dos chatos [streams de Java](http://jav
 Para mais informações, não deixe de ler a documentação do [módulo zipfile do
 Python](http://docs.python.org/library/zipfile.html).
 
+[Publicado originalmente em 2012-01-17](https://mfandrade.wordpress.com/2012/01/17/criar-arquivos-zip-em-python/).

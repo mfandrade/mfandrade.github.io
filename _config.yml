@@ -1,30 +1,33 @@
-title: Your awesome title
-author: GitHub User
-name: Adam Denisov
-email: your-email@domain.com
-tagline: Developer. Designer
+title: Marcelo Andrade.info
+author: mfandrade
+email: contact@marceloandrade.info
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My simple blog, where I can express a little bit about myself.  Here I write
+  down some reference posts like articles or tutorials about technology,
+  programming, devops, and stuff like that.  You can also find what I'm
+  reading, studying and doing.  Be welcome!
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
-theme:
+plainwhite:
+  name: Marcelo Andrade .info
+  tagline: dev, sysadm + life learner
   date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    github: mfandrade
+    linkedIn: in/mfandrade
+    facebook: mfandrade1
+    twitter: mfandrade
+    instagram: quotesmindfulness
     rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
@@ -47,8 +50,8 @@ theme:
 # - about.md
 
 # Build settings
-# theme: plainwhite
+theme: plainwhite
 
-# plugins:
+plugins:
+  - jekyll-seo-tag
 #  - jekyll-feed
-#  - jekyll-seo-tag
